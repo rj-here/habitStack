@@ -1,2 +1,7 @@
 # habitStack
-A Java program to stack habits. Goal: work with stacks
+A Java program to stack habits. Goal: work with stacks.
+Inspired by the suggestion stated in Atomic Habits by James Clear
+
+By Rishi
+
+Updated: 18th June, 2026
