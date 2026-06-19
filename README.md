@@ -4,4 +4,4 @@ Inspired by the suggestion stated in Atomic Habits by James Clear
 
 By Rishi
 
-Updated: 18th June, 2026
+Updated: 19th June, 2026
